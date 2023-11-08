@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337948846079",
+    "project_id": "madeasypark",
+    "storage_bucket": "madeasypark.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337948846079:android:eae6660bbc4f6fc508e9ca",
+        "android_client_info": {
+          "package_name": "com.company.madeasypark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdpvABpdmR_Ku0LkmHL_wH404kMFqvtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
